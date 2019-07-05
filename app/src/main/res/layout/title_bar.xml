@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <View
+        android:id="@+id/status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/app_action_bar_status_bar_height_dp"
+        android:background="@color/blue"
+        android:tag="skin:title_bg:background"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:tag="skin:title_bg:background">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dimen_10dp"
+            android:src="@drawable/ic_back"
+            android:visibility="gone"
+            android:layout_marginLeft="@dimen/dimen_10dp" />
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/blue"
+            android:gravity="center"
+            app:titleTextColor="@color/white" />
+
+        <!--<ImageView-->
+            <!--android:id="@+id/iv_search"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:src="@drawable/ic_search"-->
+            <!--android:layout_marginEnd="@dimen/dimen_10dp"-->
+            <!--/>-->
+    </LinearLayout>
+
+
+</LinearLayout>

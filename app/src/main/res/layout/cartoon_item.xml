@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_cartoon_bg"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/tv_cartoon_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dimen_5dp"
+        android:gravity="center"
+        android:maxLines="2"
+        android:text="标题"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp_18" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_cartoon_bg"
+        android:padding="@dimen/dp_10">
+
+        <TextView
+            android:id="@+id/tv_cartoon_source"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/sp_12"
+            android:textColor="@color/hint"/>
+
+        <TextView
+            android:id="@+id/tv_cartoon_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@color/hint"
+            android:textSize="@dimen/sp_12"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

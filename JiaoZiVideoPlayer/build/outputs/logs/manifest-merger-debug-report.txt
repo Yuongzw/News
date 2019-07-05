@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f6d0e9ffeed334617c0be7a710492f0a\AndroidManifest.xml:17:1-22:12
+MERGED from [:jiaozivideoplayerlib] E:\Practice_demo\News\jiaozivideoplayerlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\61b525ac300a42576896557995421050\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\cee13469cacf88a1eda3c24aaa13ef40\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf866603d806d00627ea99ec5c805359\AndroidManifest.xml:17:1-22:12
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\videocache-2.7.0.aar\5627462409151cb3855e0895c9237453\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\6cbc3e825bc1a849f2c8cc4e0fc4676a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\1fb6962bb23ed1a7c38fafecd681c091\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\26cbef4fdc8650cf424b17306a67938e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3e8aca90bd5da0b07e2f85a50982d82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\207fcc84016dd1607b4711f32f5119c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1790d23b039b5868cab6b1ca3a474f8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f49c7780b9ac95c8d4013e66b54d184a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2b98479b3ddad7d84a99ed3dbefff78\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c1157638eb45f5456cbff7f4b99d41c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba5a11e1583aae5b77b7e7b7ebef36d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0c649b47cf679423ff9b3b392d1e7ea1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b466be6ada60f8bce486977cb66c099\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c0326a5c7493e5e8a9d4afc378b13526\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3b3b134d73400d79d36f4d3e162f313e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c127ab67fd8f1745d74f5a33229b3bba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\071daa95c7fca560922c3fd4d6baa72c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\afc480ecfd5266ee297602a19ce61db6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\2e74ade7fed0809de9470b34e8c97cfb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\cd5b3710a28d740bf9660ded44af4461\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\b315b2c5a311fc78367c775afd84d7f9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\8f39eb88edfb6499de5a984f9b369a50\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\e38aee8f8c124539f7b7aced32ad535a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\1d53e84e5665ff088fb70195eaa37647\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\91744760761deddd825de0881c7b4ebf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70578ff566cca98c3ed6b384bde2dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b0d26ff0f10e7e1b0d503d652900ad49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0019118d3d4c92daa24d618398f7e426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f77f4070d03faac45624a148fe0a07d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e81c3f190c405358dee36031deea6f6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c6b376e13b89d4b5c1d0f260dcd61cc6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d53e392bfb0fcea14dd873ec3082f193\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6eef400c13bad34f7ff19960259aba23\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:7:5-102:19
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\videocache-2.7.0.aar\5627462409151cb3855e0895c9237453\AndroidManifest.xml:12:5-20
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\videocache-2.7.0.aar\5627462409151cb3855e0895c9237453\AndroidManifest.xml:12:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\6cbc3e825bc1a849f2c8cc4e0fc4676a\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\6cbc3e825bc1a849f2c8cc4e0fc4676a\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\071daa95c7fca560922c3fd4d6baa72c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\071daa95c7fca560922c3fd4d6baa72c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\2e74ade7fed0809de9470b34e8c97cfb\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\2e74ade7fed0809de9470b34e8c97cfb\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:13:9-40
+	android:networkSecurityConfig
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:12:9-88
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:8:9-40
+activity#cn.jzvd.demo.ActivityMain
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:17:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:16:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:21:27-74
+activity#cn.jzvd.demo.ActivityDirectPlay
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:25:9-28:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:26:13-47
+activity#cn.jzvd.demo.ActivityListView
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:30:13-45
+activity#cn.jzvd.demo.ActivityListViewNormal
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:34:13-51
+activity#cn.jzvd.demo.ActivityTinyWindowListViewNormal
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:38:13-61
+activity#cn.jzvd.demo.ActivityListViewFragmentViewPager
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:44:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:42:13-62
+activity#cn.jzvd.demo.ActivityListViewMultiHolder
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:46:13-56
+activity#cn.jzvd.demo.ActivityTinyWindowRecycleView
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:50:13-58
+activity#cn.jzvd.demo.ActivityTinyWindow
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:55:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:54:13-47
+activity#cn.jzvd.demo.ActivityTinyWindowListViewMultiHolder
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:60:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:59:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:58:13-66
+activity#cn.jzvd.demo.ActivityTinyWindowRecycleViewMultiHolder
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:63:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:62:13-69
+activity#cn.jzvd.demo.ActivityApi
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:68:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:67:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:66:13-40
+activity#cn.jzvd.demo.ActivityApiUISmallChange
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:71:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:70:13-53
+activity#cn.jzvd.demo.ActivityApiUIBigChange
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:76:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:75:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:74:13-51
+activity#cn.jzvd.demo.ActivityApiRotationVideoSize
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:80:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:79:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:78:13-57
+activity#cn.jzvd.demo.ActivityApiCustomMediaPlayer
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:84:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:83:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:82:13-57
+activity#cn.jzvd.demo.ActivityListViewRecyclerView
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:88:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:87:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:86:13-57
+activity#cn.jzvd.demo.ActivityWebView
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:92:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:91:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:90:13-44
+activity#cn.jzvd.demo.ActivityApiOrientation
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:94:13-51
+activity#cn.jzvd.demo.ActivityApiExtendsNormal
+ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:97:9-100:52
+	android:screenOrientation
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml:98:13-53
+uses-sdk
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f6d0e9ffeed334617c0be7a710492f0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\f6d0e9ffeed334617c0be7a710492f0a\AndroidManifest.xml:20:5-44
+MERGED from [:jiaozivideoplayerlib] E:\Practice_demo\News\jiaozivideoplayerlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:jiaozivideoplayerlib] E:\Practice_demo\News\jiaozivideoplayerlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\61b525ac300a42576896557995421050\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\61b525ac300a42576896557995421050\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\cee13469cacf88a1eda3c24aaa13ef40\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\cee13469cacf88a1eda3c24aaa13ef40\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf866603d806d00627ea99ec5c805359\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\bf866603d806d00627ea99ec5c805359\AndroidManifest.xml:20:5-44
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\videocache-2.7.0.aar\5627462409151cb3855e0895c9237453\AndroidManifest.xml:8:5-10:41
+MERGED from [com.danikula:videocache:2.7.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\videocache-2.7.0.aar\5627462409151cb3855e0895c9237453\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\6cbc3e825bc1a849f2c8cc4e0fc4676a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\6cbc3e825bc1a849f2c8cc4e0fc4676a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\1fb6962bb23ed1a7c38fafecd681c091\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.1.aar\1fb6962bb23ed1a7c38fafecd681c091\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\26cbef4fdc8650cf424b17306a67938e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\26cbef4fdc8650cf424b17306a67938e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3e8aca90bd5da0b07e2f85a50982d82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d3e8aca90bd5da0b07e2f85a50982d82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\207fcc84016dd1607b4711f32f5119c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\207fcc84016dd1607b4711f32f5119c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1790d23b039b5868cab6b1ca3a474f8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1790d23b039b5868cab6b1ca3a474f8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f49c7780b9ac95c8d4013e66b54d184a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\f49c7780b9ac95c8d4013e66b54d184a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2b98479b3ddad7d84a99ed3dbefff78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f2b98479b3ddad7d84a99ed3dbefff78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c1157638eb45f5456cbff7f4b99d41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c1157638eb45f5456cbff7f4b99d41c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba5a11e1583aae5b77b7e7b7ebef36d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ba5a11e1583aae5b77b7e7b7ebef36d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0c649b47cf679423ff9b3b392d1e7ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0c649b47cf679423ff9b3b392d1e7ea1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b466be6ada60f8bce486977cb66c099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\6b466be6ada60f8bce486977cb66c099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c0326a5c7493e5e8a9d4afc378b13526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c0326a5c7493e5e8a9d4afc378b13526\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3b3b134d73400d79d36f4d3e162f313e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3b3b134d73400d79d36f4d3e162f313e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c127ab67fd8f1745d74f5a33229b3bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c127ab67fd8f1745d74f5a33229b3bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8f87fe239bca6c477db94891bbf615b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\071daa95c7fca560922c3fd4d6baa72c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\071daa95c7fca560922c3fd4d6baa72c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\afc480ecfd5266ee297602a19ce61db6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\afc480ecfd5266ee297602a19ce61db6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\2e74ade7fed0809de9470b34e8c97cfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\2e74ade7fed0809de9470b34e8c97cfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\cd5b3710a28d740bf9660ded44af4461\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.1.aar\cd5b3710a28d740bf9660ded44af4461\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\b315b2c5a311fc78367c775afd84d7f9\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.1.aar\b315b2c5a311fc78367c775afd84d7f9\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\8f39eb88edfb6499de5a984f9b369a50\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.1.aar\8f39eb88edfb6499de5a984f9b369a50\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\e38aee8f8c124539f7b7aced32ad535a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.1.aar\e38aee8f8c124539f7b7aced32ad535a\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\1d53e84e5665ff088fb70195eaa37647\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.1.aar\1d53e84e5665ff088fb70195eaa37647\AndroidManifest.xml:21:5-23:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\91744760761deddd825de0881c7b4ebf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\91744760761deddd825de0881c7b4ebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70578ff566cca98c3ed6b384bde2dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b70578ff566cca98c3ed6b384bde2dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b0d26ff0f10e7e1b0d503d652900ad49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b0d26ff0f10e7e1b0d503d652900ad49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0019118d3d4c92daa24d618398f7e426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0019118d3d4c92daa24d618398f7e426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f77f4070d03faac45624a148fe0a07d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f77f4070d03faac45624a148fe0a07d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e81c3f190c405358dee36031deea6f6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e81c3f190c405358dee36031deea6f6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c6b376e13b89d4b5c1d0f260dcd61cc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c6b376e13b89d4b5c1d0f260dcd61cc6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d53e392bfb0fcea14dd873ec3082f193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d53e392bfb0fcea14dd873ec3082f193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6eef400c13bad34f7ff19960259aba23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6eef400c13bad34f7ff19960259aba23\AndroidManifest.xml:20:5-44
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		ADDED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+		INJECTED from E:\Practice_demo\News\JiaoZiVideoPlayer\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:jiaozivideoplayerlib] E:\Practice_demo\News\jiaozivideoplayerlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:jiaozivideoplayerlib] E:\Practice_demo\News\jiaozivideoplayerlib\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-76

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        icon="@drawable/ic_home"
+        id="@+id/tab1"
+        inActiveColor="#00FF00"
+        barColorWhenSelected="#00ddff"
+        activeColor="#f9806e"
+        title="主页"/>
+    <tab
+        icon="@drawable/ic_anime"
+        id="@+id/tab2"
+        inActiveColor="#14724d"
+        barColorWhenSelected="#f9806e"
+        activeColor="#00ddff"
+        title="漫画"/>
+
+    <tab
+        icon="@drawable/ic_video"
+        id="@+id/tab3"
+        inActiveColor="#e9b20c"
+        barColorWhenSelected="#c05cfa"
+        activeColor="#fb6508"
+        title="视频"/>
+    <tab
+        icon="@drawable/ic_movie"
+        id="@+id/tab4"
+        inActiveColor="#fbeb03"
+        barColorWhenSelected="#fb6508"
+        activeColor="#6c4fff"
+        title="豆瓣"/>
+</tabs>
